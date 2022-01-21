@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# It's fun!
+* 🌱 I'm currently learning ML system, HPC, arm optimization, and interested in machine learning model acceleration.
+* 😄 like: pragramming, music, badminton, swimming.
+* 😟 dislike: school, social, authority...
+* Looking for what can I do something for open source community.
 <!--
 **steelONIONknight/steelONIONknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
